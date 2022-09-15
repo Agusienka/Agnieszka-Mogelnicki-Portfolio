@@ -1,23 +1,23 @@
 let resumeData = {
     "imagebaseurl":"https://unsplash.com/photos/Xvb9sbQE3JU",
     "name": "Agnieszka Mogelnicki",
-    "role": "Cardiac Sonographer/Student at Programming Developer",
-    "linkedinId":"Your LinkedIn Id",
+    "role": "Cardiac Sonographer as well as Student at the University of Wisconsin-Madison professional Software Development Bootcamp program",
+    "linkedinId":"agamoe@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/agnieszka-mogelnicki-a1000119/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/Agusienka",
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am currently a student at the University of Wisconsin-Madison professional Software Development Bootcamp program. My goal is to become an expert in a chosen domain, technology, or language such as Phyton, Machine Learning, or Javascript. The dream job would be the one that allows me to turn ideas into reality.",
     "address":"USA",
     "website":"agamoe@gmail.com",
     "education":[

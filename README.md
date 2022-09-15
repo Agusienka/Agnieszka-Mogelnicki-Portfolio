@@ -15,3 +15,6 @@ A simple SPA Portfolio template for developer/designers built with React. Use it
 5. Make required changes in ```src/resumeData.js``` to suit your needs.
 
 # Agnieszka-Mogelnicki-Portfolio
+
+Photo by <a href="https://unsplash.com/@mischievous_penguins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Casey Horner</a> on <a href="https://unsplash.com/s/photos/background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
