@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Cardiac Sonographer as well as Student at the University of Wisconsin-Madison professional Software Development Bootcamp program",
     "linkedinId":"agamoe@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies.",
+    "roleDescription": " Certified Echocardiography technician on a mission to become a software developer. I have a willingness and a passion for learning new skills, concepts and technologies. ",
     "socialLinks":[
         {
           "name":"linkedin",
