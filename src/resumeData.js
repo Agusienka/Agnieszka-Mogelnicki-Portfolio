@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://unsplash.com/photos/Xvb9sbQE3JU",
     "name": "Agnieszka Mogelnicki",
-    "role": "Cardiac Sonographer as well as Student at the University of Wisconsin-Madison professional Software Development Bootcamp program",
+    "role": "  Cardiac Sonographer currently enrolled in an extensive software development course in which I'm gaining fundamental knowledge of software development along with hands-on experience using the most current tools of the trade.",
     "linkedinId":"agamoe@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": " Certified Echocardiography technician on a mission to become a software developer. I have a willingness and a passion for learning new skills, concepts and technologies. ",
+    "roleDescription": " Certified Echocardiography technician on a mission to become a software developer. I found that I had a passion for software development and couldn't wait to learn more. I'm targeting a full stack developer role once I complete the program. ",
     "socialLinks":[
         {
           "name":"linkedin",
